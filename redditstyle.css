@@ -1,0 +1,26 @@
+#searchbar{
+    background-color: black;
+    text-decoration-color: white;
+
+}
+body{
+    background-color: #e1dfba;
+}
+
+button{
+    background-color: #e1dfba;
+}
+
+.tag{
+    background-color: red;
+    color: cornsilk;
+    text-size-adjust: 40px;
+}
+
+li a{
+    color: blue;
+}
+
+.post a{
+    color:teal;
+}
